@@ -25,11 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-- 👨‍💻 All of my projects are available at <a href="Workingonit" target="_blank">Portfolio</a>
-
 - 📫 How to reach me **hassen.trabelsi@esprit.tn**
-
-- 📄 Know about my experiences <a href= "progress" target="_blank">Resume</a>
 
 ## 🛠 Languages and Tools
 
