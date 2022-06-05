@@ -3,7 +3,7 @@
 ![Programmer](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <div align="center">
 
-**"Premature optimization is the root of all evil"**
+**"Your brain works like a computer. Make sure you are the only one programming it."**
 
 <!--[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)-->
 <!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
