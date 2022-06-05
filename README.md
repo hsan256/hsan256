@@ -15,8 +15,11 @@
 
 
 ## 🚀 Summary
-<p>I'm a Full Stack Developer that enjoys coding, it allows me to be an artist and an engineer at the same time. The best
- thing about it is the vast array of tools at your disposal. 
+<p> I'm a Full Stack Developer who loves to code. I like to use the latest technologies to create products that are efficient, user-friendly, and scalable.
+
+I'm not afraid of challenges, and I love taking on new ones. My skills include NodeJS, ReactJS, Express, Angular and MongoDB.
+
+I am currently seeking a position as a Full Stack Developer where I can continue learning and growing in my career.
 </p>
 
 
