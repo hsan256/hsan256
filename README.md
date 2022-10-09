@@ -28,7 +28,7 @@ I am currently seeking a position as a Full Stack Developer where I can continue
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-- 📫 How to reach me **hassen.trabelsi@esprit.tn**
+- 📫 How to reach me **hassan.trabelsi1999@gmail.com**
 
 ## 🛠 Languages and Tools
 
