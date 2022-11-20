@@ -5,7 +5,6 @@
 
 **"Your brain works like a computer. Make sure you are the only one programming it."**
 
-[![Repos Badge](https://badges.pufler.dev/repos/hsan256)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=hsan256&label=Profile%20views&color=0e75b6&style=flat" alt="hsan256" />
 
 
@@ -41,9 +40,9 @@ I am currently seeking a position as a Full Stack Developer where I can continue
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b3231e78b6aa240f0cb1a739139ebdd11978ab246518badd4fc66ac66179d0e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465267374796c653d666c6174"><img alt="MongoDB" src="https://camo.githubusercontent.com/b3231e78b6aa240f0cb1a739139ebdd11978ab246518badd4fc66ac66179d0e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/hsan256/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hsan256&show_icons=true" height="180"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/hsan256">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsan256&layout=compact" height="180"/>
 </a>
